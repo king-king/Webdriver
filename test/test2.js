@@ -1,5 +1,7 @@
-/**
- * Created by acer on 2017/3/12.
- */
-console.log("\n\n")
-console.log(process.env['PATH'])
+let webdriver = require('selenium-webdriver');
+
+let driver = new webdriver.Builder().
+withCapabilities(webdriver.Capabilities.chrome()).
+build();
+
+driver.get('http://www.baidu.com')

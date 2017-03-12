@@ -3,7 +3,7 @@ let webdriver = require( 'selenium-webdriver' ) ,
 	until = webdriver.until;
 
 let driver = new webdriver.Builder()
-	.forBrowser( 'chrome' )
+	.forBrowser( 'firefox' )
 	.build();
 
 console.log("===================");
