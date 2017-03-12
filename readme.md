@@ -1,0 +1,1 @@
+D:\软件\VC++6.0\Tools\WinNT;D:\软件\VC++6.0\MSDev98\Bin;D:\软件\VC++6.0\Tools;D:\软件\VC98\bin;C:\Program Files (x86)\DBank\ClickUp;C:\Program Files (x86)\DBank\ClickUp;D:\Program Files\SSHSecure;D:\PHP5\PHP5;D:\Program Files (x86)\OpenVPN\bin;C:\Users\acer\AppData\Roaming\npm;E:\webdriver
